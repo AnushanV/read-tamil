@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#button{
+  margin-top: 2rem;
+}
+
+.currentCharacter{
+  text-align: center;
+}
+
+.textInput{
+  text-align: center;
+}
